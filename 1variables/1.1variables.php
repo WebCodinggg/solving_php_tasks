@@ -7,3 +7,4 @@ $roubles = $dollars * $exchangeRate;
 
 echo "$dollars dollars can be exchanged for $roubles roubles";
 
+//test
